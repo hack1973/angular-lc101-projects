@@ -7,6 +7,7 @@ import { Component, OnInit } from '@angular/core';
 })
 export class PageTitleComponent implements OnInit {
   title = 'Angular Lesson 1 Exercises';
+  
   constructor() { }
 
   ngOnInit() {

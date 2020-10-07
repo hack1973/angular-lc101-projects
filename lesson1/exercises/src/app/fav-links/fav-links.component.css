@@ -1,8 +1,9 @@
+.links {
+  font-size: 1.6vw;
+  text-align: center;
+}
+
 h3 {
-    color: brown;
- }
+  text-decoration: underline;
+}
  
- .links {
-   font-size: 1.6vw;
-   text-align: center;
- }
